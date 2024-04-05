@@ -1,0 +1,28 @@
+{
+  "name": "cohost",
+  "version": "1.2.0",
+  "description": "CoHost is a responsive html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArefHdr/git-course.git"
+  },
+  "keywords": [
+    "cohost",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "aref heydari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArefHdr/git-course/issues"
+  },
+  "homepage": "https://github.com/ArefHdr/git-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
