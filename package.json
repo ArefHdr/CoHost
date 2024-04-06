@@ -14,7 +14,8 @@
     "cohost",
     "js",
     "html",
-    "css"
+    "css",
+    front
   ],
   "author": "aref heydari",
   "license": "MIT",
